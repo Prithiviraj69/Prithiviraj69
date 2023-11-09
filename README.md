@@ -2,7 +2,7 @@
 <h3 align="center">Web Sorcerer</h3>
 
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Prithiviraj69/Prithiviraj69/assets/85940424/803cf7f2-4948-4b68-8ac8-91c6e9b09633)
+<img align="right" alt="coding" width="400" src="(https://github.com/Prithiviraj69/Prithiviraj69/assets/85940424/803cf7f2-4948-4b68-8ac8-91c6e9b09633)
 ">
 
 
