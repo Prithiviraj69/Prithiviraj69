@@ -2,7 +2,7 @@
 <h3 align="center">Web Sorcerer</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/programmer-6937141">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithiviraj69&label=Profile%20views&color=0e75b6&style=flat" alt="prithiviraj69" /> </p>
