@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prithiviraj Elumalai</h1>
-<h3 align="center">Web Sorcerer</h3>
+<h3 align="center">Code Commander Behind the scenes</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
