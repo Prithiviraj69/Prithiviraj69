@@ -2,7 +2,8 @@
 <h3 align="center">Web Sorcerer</h3>
 
 
-![image](https://github.com/Prithiviraj69/Prithiviraj69/assets/85940424/0c0cd53b-50a7-4da9-80e3-247cd28ae293)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Prithiviraj69/Prithiviraj69/assets/85940424/803cf7f2-4948-4b68-8ac8-91c6e9b09633)
+">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithiviraj69&label=Profile%20views&color=0e75b6&style=flat" alt="prithiviraj69" /> </p>
