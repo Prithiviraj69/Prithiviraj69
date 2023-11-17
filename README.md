@@ -2,7 +2,7 @@
 <h3 align="center">Code Commander Behind the scenes</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="[https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/78/da/42/78da42c5b6907b2ead1eedde2f1aaf75.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithiviraj69&label=Profile%20views&color=0e75b6&style=flat" alt="prithiviraj69" /> </p>
