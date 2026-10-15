@@ -1,8 +1,75 @@
-<div align="center"> <img src="./assets/hero.svg" alt="Prithiviraj Elumalai — Full Stack Developer" width="100%"/> <br/>
+<div align="center">
 
-<a href="https://linkedin.com/in/prithiviraj-elumalai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:prithvirajmudiliyar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://labourdnhdd.in"><img src="https://img.shields.io/badge/Live%20Project-labourdnhdd.in-ff6f00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portal"/></a> <img src="https://komarev.com/ghpvc/?username=Prithiviraj69&label=Profile%20Views&color=8957e5&style=for-the-badge" alt="views"/>
+<img src="./assets/hero.svg" alt="Prithiviraj Elumalai — Full Stack Developer" width="100%"/>
 
-<img src="./assets/divider.svg" width="100%" alt=""/> <img src="./assets/t-about.svg" width="100%" alt="About"/> <img src="./assets/terminal.svg" width="100%" alt="Terminal intro"/> <img src="./assets/divider.svg" width="100%" alt=""/> <img src="./assets/t-stack.svg" width="100%" alt="Tech Arsenal"/> <img src="./assets/skills.svg" width="100%" alt="Tech stack marquee"/> <br/> <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,nextjs,react,ts,js,tailwind,vite,postgres,mongodb,mysql,redis,aws,docker,vercel,git,github,linux,postman,firebase&perline=11&theme=dark" alt="skills"/> <img src="./assets/divider.svg" width="100%" alt=""/> <img src="./assets/t-work.svg" width="100%" alt="Featured Work"/> <table> <tr> <td><img src="./assets/p1.svg" alt="Digital Labour Compliance Portal" width="100%"/></td> <td><img src="./assets/p2.svg" alt="NCS Gateway" width="100%"/></td> </tr> <tr> <td><img src="./assets/p3.svg" alt="BOCW & Cess Portal" width="100%"/></td> <td><img src="./assets/p4.svg" alt="Digital Labour Chowk" width="100%"/></td> </tr> <tr> <td><a href="https://labourdnhdd.in"><img src="./assets/p5.svg" alt="Department Main Portal" width="100%"/></a></td> <td><img src="./assets/p6.svg" alt="e-Shram Microsite" width="100%"/></td> </tr> </table> <img src="./assets/side.svg" width="100%" alt="Local-First Collaborative Document Editor"/> <img src="./assets/divider.svg" width="100%" alt=""/> <img src="./assets/t-impact.svg" width="100%" alt="Impact"/> <img src="./assets/metrics.svg" width="100%" alt="Impact metrics"/> <img src="./assets/divider.svg" width="100%" alt=""/> <img src="./assets/t-github.svg" width="100%" alt="GitHub Analytics"/> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prithiviraj69&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1326" alt="stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithiviraj69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1326" alt="top langs"/> <img src="https://streak-stats.demolab.com?user=Prithiviraj69&theme=tokyonight&hide_border=true&background=0d1326" alt="streak"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithiviraj69&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1326" alt="activity graph" width="100%"/> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prithiviraj69/Prithiviraj69/output/github-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prithiviraj69/Prithiviraj69/output/github-snake.svg"/> <img alt="contribution snake" src="https://raw.githubusercontent.com/Prithiviraj69/Prithiviraj69/output/github-snake-dark.svg"/> </picture> <br/>
+<br/>
+
+<a href="https://linkedin.com/in/prithiviraj-elumalai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:prithvirajmudiliyar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://labourdnhdd.in"><img src="https://img.shields.io/badge/Live%20Project-labourdnhdd.in-ff6f00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portal"/></a>
+<img src="https://komarev.com/ghpvc/?username=Prithiviraj69&label=Profile%20Views&color=8957e5&style=for-the-badge" alt="views"/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<img src="./assets/t-about.svg" width="100%" alt="About"/>
+
+<img src="./assets/terminal.svg" width="100%" alt="Terminal intro"/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<img src="./assets/t-stack.svg" width="100%" alt="Tech Arsenal"/>
+
+<img src="./assets/skills.svg" width="100%" alt="Tech stack marquee"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,nextjs,react,ts,js,tailwind,vite,postgres,mongodb,mysql,redis,aws,docker,vercel,git,github,linux,postman,firebase&perline=11&theme=dark" alt="skills"/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<img src="./assets/t-work.svg" width="100%" alt="Featured Work"/>
+
+<table>
+<tr>
+<td><img src="./assets/p1.svg" alt="Digital Labour Compliance Portal" width="100%"/></td>
+<td><img src="./assets/p2.svg" alt="NCS Gateway" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="./assets/p3.svg" alt="BOCW & Cess Portal" width="100%"/></td>
+<td><img src="./assets/p4.svg" alt="Digital Labour Chowk" width="100%"/></td>
+</tr>
+<tr>
+<td><a href="https://labourdnhdd.in"><img src="./assets/p5.svg" alt="Department Main Portal" width="100%"/></a></td>
+<td><img src="./assets/p6.svg" alt="e-Shram Microsite" width="100%"/></td>
+</tr>
+</table>
+
+<img src="./assets/side.svg" width="100%" alt="Local-First Collaborative Document Editor"/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<img src="./assets/t-impact.svg" width="100%" alt="Impact"/>
+
+<img src="./assets/metrics.svg" width="100%" alt="Impact metrics"/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<img src="./assets/t-github.svg" width="100%" alt="GitHub Analytics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Prithiviraj69&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1326" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithiviraj69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1326" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=Prithiviraj69&theme=tokyonight&hide_border=true&background=0d1326" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithiviraj69&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1326" alt="activity graph" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prithiviraj69/Prithiviraj69/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prithiviraj69/Prithiviraj69/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Prithiviraj69/Prithiviraj69/output/github-snake-dark.svg"/>
+</picture>
+
+<br/>
 
 <a href="mailto:prithvirajmudiliyar@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Let's build something great together"/></a>
 
