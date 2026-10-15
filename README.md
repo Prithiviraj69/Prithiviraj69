@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prithiviraj Elumalai</h1>
-<h3 align="center">Code Commander Behind the scenes</h3>
+<h3 align="center">Full Stack Engineer | Specialized in High-Performance Web Architecture & Distributed Systems</h3>
 
+<img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/78/da/42/78da42c5b6907b2ead1eedde2f1aaf75.gif">
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/78/da/42/78da42c5b6907b2ead1eedde2f1aaf75.gif">
+<p align="left"> 
+  <img src="https://komarev.com" alt="prithiviraj69" /> 
+</p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithiviraj69&label=Profile%20views&color=0e75b6&style=flat" alt="prithiviraj69" /> </p>
-
-- 🔭 I’m currently working on Govt, Labour & Employment Department [Labour Daman](labourdnhdd.in)
-
-- 📫 How to reach me **prithvirajmudiliyar@gmail.com**
-
-- ⚡ Fun fact **Over 70% of developers surveyed reported that they were satisfied with their jobs!!!**
+- 🔭 **Current Focus:** Engineering high-traffic secure web systems, digital workflow platforms, and offline-first collaborative architectures.
+- 🏢 **Professional Experience:** Developing enterprise e-Governance nodes, multi-tenant RBAC systems, and custom content delivery frameworks at **Prakhar Software Solutions**.
+- 🛠️ **Latest Production Milestone:** Built an offline-first collaborative doc-editor syncing dynamic client states with a deterministic diff3Merge system.
+- 📫 **Drop an email:** [prithvirajmudiliyar@gmail.com](mailto:prithvirajmudiliyar@gmail.com)
+- ⚡ **Engineering Principles:** Slashing data-pipeline latencies by 40%+ using strategic connection pooling, memory caching, and optimized querying models.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,11 +19,43 @@
 <a href="https://instagram.com/abhi6439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi6439" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools (Core Stack):</h3>
+<p align="left">
+  <!-- Frontend Frameworks & Languages -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://jsdelivr.net" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://jsdelivr.net" alt="tailwindcss" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithiviraj69&show_icons=true&locale=en&layout=compact" alt="prithiviraj69" /></p>
+  <!-- Backend Frameworks -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://jsdelivr.net" alt="express" width="40" height="40"/> </a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://jsdelivr.net" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithiviraj69&show_icons=true&locale=en" alt="prithiviraj69" /></p>
+  <!-- Databases & Caching -->
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://jsdelivr.net" alt="redis" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/> </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithiviraj69&" alt="prithiviraj69" /></p>
+  <!-- DevOps & Infrastructure -->
+  <a href="https://amazon.com" target="_blank" rel="noreferrer"> <img src="https://jsdelivr.net" alt="aws" width="40" height="40"/> </a>
+  <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://jsdelivr.net" alt="docker" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
+<br clear="both">
+
+<p align="center">
+  <img align="center" src="https://vercel.app" alt="prithiviraj69" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://vercel.app" alt="prithiviraj69" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://herokuapp.com" alt="prithiviraj69" />
+</p>
